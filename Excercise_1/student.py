@@ -1,4 +1,4 @@
-
+#Sajal Baral, Asim Siddique, Shawn Kiruba, Kevin Avila, Shail Patel
 class student:
     def __init__(self,name,gpa):
         self.name = name

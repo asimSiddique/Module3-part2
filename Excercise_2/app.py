@@ -1,4 +1,4 @@
-
+#Sajal Baral, Asim Siddique, Shawn Kiruba, Kevin Avila, Shail Patel
 #https://realpython.com/python-timer/
 #https://docs.python.org/3/library/time.html
 #Website talk about different pyton timers function to calculate time elapsed. 
